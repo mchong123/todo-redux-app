@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-408ca": {
+      "hosting": {
+        "IngresoEgreso": [
+          "ingreso-egreso-app-408ca"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-408ca"
+  }
+}
